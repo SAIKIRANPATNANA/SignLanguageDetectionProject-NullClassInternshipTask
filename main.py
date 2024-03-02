@@ -4,7 +4,7 @@ import subprocess
 from PIL import Image
 
 detect_script_path = "yolov5/detect.py"
-weights_path = "yolov5/best.pt"
+weights_path = "best.pt"
 output_dir = "tested_images"
 
 st.title("SIGN LANGUAGE DETECTION")
