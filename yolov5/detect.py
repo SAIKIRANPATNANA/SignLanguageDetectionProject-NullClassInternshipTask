@@ -111,7 +111,7 @@ def run(
     #(save_dir / "labels" if save_txt else save_dir).mkdir(parents=True, exist_ok=True)  # make dir
     
     # Specify your desired output directory path
-    output_dir = "SIGN_LANGUAGE_RECOGNITION/tested_images"
+    output_dir = "tested_images"
 
     # Update the save_dir variable to point to the new output directory
     save_dir = Path(output_dir)
