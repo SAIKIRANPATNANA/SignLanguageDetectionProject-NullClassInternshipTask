@@ -1,0 +1,2 @@
+# SignLanguageDetectionProject-NullClassInternshipTask
+A DEEP DIVE INTO YOLOV5 TROUGH SIGNLANGUAGE DETECTION PROJECT.
