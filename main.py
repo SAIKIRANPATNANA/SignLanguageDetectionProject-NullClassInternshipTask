@@ -7,6 +7,9 @@ detect_script_path = "yolov5/detect.py"
 weights_path = "best.pt"
 output_dir = "tested_images"
 
+st.set_page_config(page_title='Sign Language Recognition Project', layout='centered')
+
+st.title('Null Class Intership Project')
 st.title("SIGN LANGUAGE DETECTION")
 st.header('Trained & Developed by Sai Kiran Patnana')
 
